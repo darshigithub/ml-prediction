@@ -1,0 +1,451 @@
+restaurant_name,cuisine,city,rating,votes,average_cost,delivery_time,online_order
+Grill Garden,North Indian,Bangalore,3.3,1604,600,43,No
+Punjabi Court,North Indian,Hyderabad,3.8,1027,250,34,Yes
+Kebab Palace,Biryani,Delhi,3.6,329,150,41,No
+Sweet Point,Cafe,Chennai,3.8,130,700,39,Yes
+Tandoor Bay,Burger,Hyderabad,3.2,209,150,47,Yes
+Sweet Bay,North Indian,Kolkata,3.3,1199,350,36,No
+Golden Express,North Indian,Delhi,4.0,996,700,30,Yes
+Kebab Cafe,Biryani,Hyderabad,4.0,255,600,48,Yes
+Sweet Junction,Chinese,Jaipur,2.9,245,500,47,No
+Dosa Garden,Cafe,Kolkata,3.1,464,150,34,No
+Wok Court,Desserts,Mumbai,3.2,1182,300,54,No
+Golden Express,North Indian,Chennai,3.1,1614,150,57,No
+Dosa Junction,Mughlai,Hyderabad,3.6,732,500,49,Yes
+Royal Hub,Burger,Jaipur,3.0,312,600,50,Yes
+Urban Bay,Seafood,Mumbai,4.0,435,300,36,Yes
+Biryani Cafe,Desserts,Hyderabad,3.4,370,150,27,Yes
+Grill House,Burger,Bangalore,3.6,36,250,22,Yes
+Masala Bay,Burger,Mumbai,3.7,459,800,49,Yes
+Coastal Cafe,Cafe,Jaipur,3.5,229,400,31,Yes
+Tandoor Cafe,Seafood,Bangalore,4.0,6325,150,27,Yes
+Cheese Junction,Mughlai,Jaipur,3.8,255,150,34,Yes
+Hyderabadi House,Mughlai,Mumbai,3.8,1252,450,35,Yes
+Wok House,Desserts,Bangalore,3.9,1575,400,42,Yes
+Paradise Palace,Mughlai,Jaipur,3.5,862,350,21,Yes
+Punjabi Kitchen,Seafood,Delhi,3.9,12,600,27,Yes
+Punjabi Hub,Biryani,Mumbai,3.7,1666,800,40,No
+Sweet Hub,Desserts,Delhi,3.3,575,500,36,No
+Grill Hub,South Indian,Pune,3.5,209,500,42,Yes
+Royal Junction,Mughlai,Bangalore,3.3,934,300,49,No
+Punjabi Express,Burger,Hyderabad,3.3,321,300,35,No
+Royal Kitchen,Mughlai,Kolkata,3.4,256,400,24,Yes
+Paradise Bay,Burger,Bangalore,3.4,264,1000,47,No
+Golden Junction,Desserts,Delhi,3.6,1085,400,45,Yes
+Royal Cafe,Chinese,Chennai,3.4,16,450,31,Yes
+Paradise Cafe,Chinese,Hyderabad,3.7,29,1000,28,Yes
+Spice Kitchen,Mughlai,Kolkata,3.5,1537,600,60,No
+Dosa Street,Biryani,Mumbai,3.7,1530,500,33,No
+Tandoor Street,Cafe,Hyderabad,3.5,366,1000,47,No
+Curry Bay,Chinese,Pune,3.3,5944,700,57,No
+Kebab Cafe,Pizza,Chennai,3.1,1322,250,43,No
+Wok Point,Desserts,Delhi,3.3,1435,250,43,No
+Sweet Express,Cafe,Pune,3.5,1098,1000,58,No
+Punjabi Bay,South Indian,Mumbai,3.7,769,1000,37,No
+Spice House,Chinese,Hyderabad,3.7,166,1000,22,Yes
+Coastal Cafe,Cafe,Hyderabad,3.2,93,100,58,No
+Golden Street,North Indian,Kolkata,3.5,513,250,49,Yes
+Punjabi Point,Seafood,Delhi,4.1,34923,450,49,No
+Golden Street,Mughlai,Kolkata,3.8,2134,1000,37,No
+Masala Express,Pizza,Jaipur,3.2,131,300,30,Yes
+Urban Garden,Mughlai,Mumbai,3.8,362,250,22,Yes
+Tandoor Garden,Burger,Jaipur,3.3,1662,1000,48,No
+Spice Hub,Biryani,Kolkata,3.4,235,400,47,No
+Grill Palace,Mughlai,Hyderabad,3.5,425,350,51,No
+Urban Court,Desserts,Delhi,3.3,1116,600,48,No
+Sweet Junction,North Indian,Kolkata,3.4,97,250,34,Yes
+Masala Kitchen,Desserts,Chennai,2.8,378,100,60,No
+Grill Garden,North Indian,Bangalore,3.9,3633,250,24,Yes
+Masala Hub,North Indian,Hyderabad,3.2,74,800,52,No
+Spice Palace,South Indian,Chennai,4.0,3096,400,32,Yes
+Royal Street,Chinese,Mumbai,3.3,635,600,45,Yes
+Curry Point,Mughlai,Kolkata,3.1,347,400,60,No
+Golden Street,Seafood,Delhi,3.6,566,600,55,No
+Masala Hub,Seafood,Jaipur,3.2,169,600,51,No
+Golden Express,Biryani,Jaipur,3.6,20,350,38,No
+Curry Garden,Pizza,Bangalore,3.9,1286,1000,27,Yes
+Curry Palace,Seafood,Jaipur,3.6,65,300,41,Yes
+Hyderabadi Hub,Seafood,Pune,3.3,269,300,38,No
+Hyderabadi Street,Chinese,Pune,3.6,201,450,28,Yes
+Paradise Palace,Mughlai,Chennai,3.6,234,100,42,Yes
+Hyderabadi Palace,Pizza,Bangalore,3.6,815,1000,35,Yes
+Coastal Express,Biryani,Chennai,3.5,471,700,31,No
+Grill Kitchen,Cafe,Chennai,3.6,615,600,45,Yes
+Sweet Palace,Mughlai,Kolkata,3.3,156,600,60,No
+Curry Junction,Chinese,Hyderabad,3.2,134,200,30,No
+Tandoor Garden,Cafe,Jaipur,3.3,254,450,32,No
+Royal Point,Pizza,Hyderabad,2.8,239,300,56,No
+Biryani Express,Biryani,Delhi,3.9,33,800,42,No
+Curry Court,Mughlai,Jaipur,3.1,80,350,49,No
+Masala Court,North Indian,Hyderabad,4.0,407,300,25,Yes
+Coastal Hub,Desserts,Jaipur,3.1,364,150,47,Yes
+Wok Point,Desserts,Jaipur,3.4,263,1000,42,No
+Tandoor Garden,Biryani,Jaipur,3.3,549,450,50,No
+Hyderabadi Junction,Biryani,Hyderabad,3.7,2690,800,45,No
+Biryani Point,Cafe,Hyderabad,3.7,78,250,46,Yes
+Coastal Street,Seafood,Mumbai,3.7,101,400,46,Yes
+Hyderabadi Junction,Seafood,Hyderabad,3.6,17,500,53,No
+Kebab Point,North Indian,Chennai,3.8,10958,600,51,No
+Dosa Hub,South Indian,Jaipur,3.0,634,450,59,No
+Grill Cafe,Chinese,Hyderabad,3.6,5579,400,51,No
+Urban Point,South Indian,Jaipur,3.6,2329,150,47,Yes
+Urban Cafe,North Indian,Jaipur,3.3,122,400,40,Yes
+Coastal Point,Burger,Kolkata,3.1,19918,250,53,No
+Golden Street,North Indian,Mumbai,3.3,325,350,41,No
+Golden Junction,Chinese,Kolkata,3.3,700,600,24,Yes
+Spice Express,Pizza,Jaipur,2.8,125,350,48,No
+Biryani Garden,Desserts,Chennai,3.0,119,350,48,No
+Masala House,Pizza,Bangalore,3.7,786,800,31,No
+Dosa Garden,Seafood,Chennai,3.9,1100,700,44,Yes
+Biryani Express,South Indian,Mumbai,3.8,95,200,22,Yes
+Paradise Junction,Burger,Kolkata,3.0,270,300,46,Yes
+Royal Express,Seafood,Chennai,3.3,117,100,38,No
+Wok Bay,Seafood,Pune,3.8,3476,600,37,No
+Royal Junction,Seafood,Chennai,3.3,137,400,44,No
+Cheese Bay,Mughlai,Kolkata,3.7,85,400,50,Yes
+Sweet Express,Biryani,Pune,4.4,43285,350,21,Yes
+Curry Bay,Chinese,Mumbai,3.3,83,100,31,No
+Curry Point,Chinese,Delhi,3.6,214,250,30,Yes
+Urban Junction,Cafe,Bangalore,3.4,769,150,51,No
+Grill Court,South Indian,Bangalore,3.5,306,100,34,No
+Coastal Express,Mughlai,Mumbai,3.9,1761,150,34,Yes
+Sweet Bay,Cafe,Bangalore,3.5,455,700,33,No
+Kebab Court,Seafood,Mumbai,3.9,200,600,40,Yes
+Sweet Point,Burger,Kolkata,3.3,639,800,33,No
+Sweet Garden,Mughlai,Hyderabad,3.6,161,400,43,No
+Masala Hub,Burger,Kolkata,2.8,462,150,32,No
+Hyderabadi Point,Burger,Delhi,3.4,319,350,47,Yes
+Biryani Hub,Desserts,Bangalore,3.1,81,200,51,No
+Royal Palace,North Indian,Pune,3.4,1161,500,54,No
+Spice Junction,Cafe,Bangalore,3.1,58,350,41,No
+Urban Street,South Indian,Kolkata,3.5,669,800,36,Yes
+Golden Hub,Desserts,Jaipur,2.9,264,600,49,No
+Tandoor Bay,Biryani,Delhi,3.9,92,400,35,Yes
+Punjabi Kitchen,Desserts,Chennai,3.6,334,700,41,Yes
+Grill Cafe,Mughlai,Chennai,3.9,6174,300,30,Yes
+Urban Cafe,Seafood,Kolkata,3.6,541,500,46,Yes
+Tandoor Cafe,Burger,Mumbai,3.5,3306,600,42,No
+Wok House,Desserts,Chennai,3.6,3130,800,49,Yes
+Cheese Court,Desserts,Mumbai,3.4,387,300,43,Yes
+Punjabi Bay,Burger,Delhi,3.5,85,1000,31,Yes
+Urban Palace,South Indian,Hyderabad,3.9,90,1000,44,Yes
+Sweet Bay,South Indian,Jaipur,3.4,4324,700,49,No
+Curry Express,Burger,Delhi,2.7,409,300,48,No
+Sweet Express,Mughlai,Mumbai,3.6,96,300,32,No
+Hyderabadi Street,North Indian,Kolkata,3.4,2451,1000,48,No
+Tandoor Express,Burger,Jaipur,3.1,145,500,40,Yes
+Punjabi Point,Chinese,Jaipur,3.0,724,300,42,No
+Curry Hub,Burger,Bangalore,3.3,86,700,60,No
+Urban Hub,South Indian,Pune,3.6,143,700,32,Yes
+Kebab Junction,North Indian,Chennai,3.8,4528,800,51,No
+Spice Hub,North Indian,Kolkata,3.4,108,250,37,No
+Royal Point,South Indian,Mumbai,3.1,103,200,49,No
+Sweet House,South Indian,Delhi,3.7,266,250,34,Yes
+Biryani Express,Seafood,Hyderabad,3.9,1506,700,50,Yes
+Wok Point,Seafood,Jaipur,3.3,3027,250,55,No
+Dosa Point,Pizza,Bangalore,2.8,513,150,54,No
+Curry Garden,Seafood,Delhi,3.4,2542,400,46,No
+Grill House,Desserts,Mumbai,3.2,314,800,50,No
+Biryani Express,South Indian,Delhi,3.8,818,800,35,Yes
+Masala Garden,Biryani,Mumbai,4.2,2580,800,39,Yes
+Biryani Kitchen,North Indian,Chennai,3.7,86,1000,39,Yes
+Punjabi Court,North Indian,Jaipur,3.6,251,400,20,Yes
+Curry Point,Chinese,Kolkata,3.2,554,500,37,Yes
+Dosa Palace,Seafood,Bangalore,3.3,1162,150,41,No
+Tandoor Hub,North Indian,Pune,3.7,854,200,46,Yes
+Urban Kitchen,Seafood,Jaipur,3.6,271,400,46,Yes
+Biryani Hub,Pizza,Bangalore,3.7,794,1000,31,Yes
+Kebab Junction,Desserts,Jaipur,3.1,484,1000,46,No
+Cheese Court,North Indian,Kolkata,3.3,295,350,41,Yes
+Sweet Hub,Seafood,Kolkata,3.8,320,350,39,Yes
+Wok Hub,Pizza,Bangalore,3.1,553,200,50,Yes
+Urban Kitchen,Cafe,Jaipur,3.7,93,350,32,Yes
+Dosa Hub,Biryani,Delhi,3.3,430,200,46,No
+Royal House,Burger,Chennai,3.3,1406,400,49,Yes
+Paradise Court,Pizza,Chennai,2.8,481,150,44,No
+Dosa Street,Seafood,Mumbai,3.1,59,300,57,No
+Royal Garden,South Indian,Pune,3.7,1156,450,20,Yes
+Hyderabadi Junction,Cafe,Pune,3.5,647,300,42,No
+Curry Junction,Seafood,Kolkata,3.5,347,350,34,No
+Cheese Point,Mughlai,Delhi,3.6,183,200,25,Yes
+Curry Palace,Chinese,Pune,3.0,128,600,47,No
+Kebab Court,South Indian,Delhi,3.6,1120,250,44,Yes
+Hyderabadi Palace,Cafe,Bangalore,3.3,775,250,55,No
+Curry Street,Desserts,Chennai,3.0,85,450,44,No
+Kebab Street,Cafe,Delhi,3.6,2598,400,34,No
+Grill Express,Mughlai,Mumbai,3.3,106,200,33,No
+Golden Hub,Desserts,Kolkata,3.4,216,500,34,Yes
+Curry Cafe,Pizza,Jaipur,3.2,709,250,38,Yes
+Coastal Palace,Biryani,Chennai,3.7,841,400,34,No
+Tandoor Cafe,Burger,Kolkata,2.7,50,350,47,No
+Royal Junction,Desserts,Jaipur,3.4,2830,1000,40,No
+Punjabi Cafe,Burger,Delhi,3.2,492,200,42,Yes
+Punjabi Junction,Seafood,Jaipur,3.8,182,200,32,Yes
+Biryani Express,Pizza,Pune,3.6,1502,700,33,No
+Coastal Palace,Cafe,Chennai,3.9,2117,800,21,Yes
+Grill House,South Indian,Kolkata,3.5,845,250,20,Yes
+Paradise Cafe,Desserts,Delhi,3.3,497,450,57,No
+Hyderabadi Hub,Biryani,Delhi,4.0,406,500,31,Yes
+Grill Palace,Pizza,Jaipur,3.2,582,300,44,Yes
+Coastal Hub,Chinese,Jaipur,3.3,3862,800,38,No
+Dosa Junction,Cafe,Kolkata,3.2,255,800,32,No
+Paradise Garden,Seafood,Chennai,3.2,1344,500,52,No
+Tandoor Bay,North Indian,Hyderabad,3.6,1582,250,21,Yes
+Urban House,Burger,Jaipur,3.4,54,450,35,Yes
+Tandoor Kitchen,Pizza,Pune,3.3,766,800,53,No
+Golden House,Biryani,Delhi,4.0,3098,450,35,No
+Biryani Court,Pizza,Bangalore,4.1,12135,350,29,Yes
+Punjabi Express,Mughlai,Jaipur,3.8,34,350,25,Yes
+Kebab Palace,Pizza,Delhi,3.6,918,200,39,Yes
+Curry Cafe,Desserts,Kolkata,2.9,782,200,45,No
+Wok Garden,Chinese,Bangalore,3.3,419,350,39,No
+Dosa Street,Cafe,Bangalore,3.2,83,450,39,No
+Biryani Hub,Mughlai,Chennai,3.5,683,200,35,Yes
+Hyderabadi Express,Cafe,Pune,3.5,8942,250,54,No
+Punjabi Street,Cafe,Mumbai,3.4,11,150,31,No
+Golden Hub,Mughlai,Hyderabad,4.2,2031,700,26,Yes
+Tandoor Express,Seafood,Mumbai,3.6,121,600,31,No
+Masala House,Pizza,Bangalore,3.1,1808,100,43,No
+Coastal House,North Indian,Bangalore,3.7,276,200,44,Yes
+Sweet Cafe,Desserts,Pune,3.2,205,700,57,No
+Hyderabadi Cafe,Burger,Mumbai,3.1,624,250,46,Yes
+Hyderabadi Cafe,Biryani,Chennai,3.3,737,250,44,No
+Tandoor Bay,Pizza,Hyderabad,3.3,228,100,27,Yes
+Tandoor Garden,North Indian,Bangalore,3.2,1208,250,47,No
+Grill Street,Biryani,Delhi,3.7,736,1000,51,No
+Punjabi Garden,Chinese,Chennai,3.4,377,500,50,Yes
+Tandoor Hub,South Indian,Kolkata,3.0,1255,400,43,No
+Grill Garden,Desserts,Delhi,3.5,107,1000,44,No
+Hyderabadi Point,Mughlai,Kolkata,3.3,167,250,40,No
+Hyderabadi Street,Seafood,Pune,3.3,246,100,47,Yes
+Paradise Hub,Cafe,Hyderabad,3.7,222,800,33,No
+Wok Garden,Seafood,Hyderabad,3.9,826,400,34,Yes
+Dosa Point,Burger,Chennai,3.2,2437,1000,53,No
+Kebab Cafe,Burger,Hyderabad,3.2,655,800,43,No
+Wok Court,Chinese,Pune,3.7,2175,700,50,Yes
+Sweet Junction,Pizza,Jaipur,2.9,1098,200,53,No
+Curry Bay,South Indian,Bangalore,3.4,55,150,42,Yes
+Tandoor Court,Chinese,Jaipur,3.3,402,800,38,No
+Golden Kitchen,Pizza,Bangalore,3.5,3499,250,36,No
+Wok Kitchen,Pizza,Pune,3.5,305,600,37,No
+Tandoor Kitchen,Chinese,Chennai,3.6,351,450,21,Yes
+Cheese Bay,South Indian,Mumbai,3.2,2123,150,58,No
+Coastal Palace,Biryani,Hyderabad,4.2,570,350,20,Yes
+Curry Palace,Cafe,Delhi,3.3,182,400,51,No
+Curry Point,Burger,Kolkata,3.1,1137,150,33,Yes
+Kebab House,North Indian,Pune,3.3,1962,450,45,No
+Golden Bay,Mughlai,Kolkata,3.3,671,1000,49,No
+Masala Junction,Chinese,Mumbai,3.3,142,200,43,Yes
+Spice Palace,Burger,Mumbai,3.2,293,150,24,Yes
+Royal House,Desserts,Jaipur,3.2,63,600,49,No
+Cheese Cafe,Desserts,Bangalore,3.7,4734,500,58,No
+Golden Junction,Chinese,Delhi,3.0,243,200,32,No
+Coastal Kitchen,Pizza,Kolkata,3.1,1309,600,36,No
+Wok Hub,South Indian,Chennai,3.6,1683,350,34,Yes
+Kebab Court,Cafe,Delhi,3.4,2154,800,50,No
+Wok Palace,Cafe,Hyderabad,3.2,1576,150,59,No
+Sweet Street,Cafe,Delhi,3.9,20,800,22,Yes
+Biryani Garden,Desserts,Jaipur,3.3,256,400,45,Yes
+Hyderabadi Point,Seafood,Jaipur,3.4,407,350,52,No
+Grill Bay,Mughlai,Mumbai,4.0,765,600,21,Yes
+Royal House,Desserts,Pune,3.3,155,800,46,No
+Dosa Cafe,Cafe,Hyderabad,3.3,381,800,46,No
+Biryani Cafe,Biryani,Jaipur,4.1,7617,350,29,Yes
+Coastal Kitchen,Chinese,Jaipur,3.0,312,350,32,No
+Royal Bay,North Indian,Bangalore,3.5,1492,500,35,No
+Wok Bay,Desserts,Jaipur,3.2,69,400,32,Yes
+Cheese Cafe,Cafe,Hyderabad,3.6,92,1000,32,No
+Kebab Garden,Mughlai,Delhi,3.7,433,450,46,No
+Royal Hub,Burger,Kolkata,2.8,268,200,56,No
+Kebab Kitchen,Pizza,Mumbai,3.2,254,350,42,Yes
+Wok Cafe,Desserts,Kolkata,3.5,72,800,49,Yes
+Biryani Junction,South Indian,Delhi,3.2,3569,100,45,No
+Coastal Cafe,Desserts,Jaipur,3.2,1144,200,32,No
+Masala Garden,Chinese,Chennai,3.6,545,450,38,Yes
+Masala Point,Seafood,Mumbai,4.2,1538,1000,21,Yes
+Royal Street,Seafood,Hyderabad,4.1,9512,300,57,No
+Curry Express,Seafood,Chennai,3.6,1188,800,48,No
+Urban Garden,Cafe,Kolkata,3.4,688,600,37,Yes
+Punjabi Bay,Pizza,Chennai,3.1,1111,1000,55,No
+Urban Garden,Biryani,Chennai,3.8,153,250,44,Yes
+Masala Bay,Desserts,Jaipur,3.7,347,700,45,Yes
+Dosa Express,North Indian,Kolkata,3.1,2192,100,57,No
+Curry Point,North Indian,Jaipur,3.0,2066,350,56,No
+Kebab Bay,Mughlai,Delhi,3.8,2760,100,33,No
+Spice Cafe,South Indian,Jaipur,3.0,58,200,58,No
+Dosa Palace,South Indian,Chennai,3.9,699,700,29,Yes
+Royal House,Chinese,Kolkata,3.4,246,600,27,Yes
+Kebab Kitchen,Seafood,Bangalore,3.8,3243,200,35,Yes
+Royal Hub,Desserts,Mumbai,3.7,323,400,44,Yes
+Punjabi Court,South Indian,Delhi,3.5,304,700,43,Yes
+Curry Kitchen,Desserts,Jaipur,3.5,197,800,32,Yes
+Grill Palace,Desserts,Pune,3.7,756,600,39,Yes
+Paradise Point,Pizza,Bangalore,3.3,661,400,39,No
+Royal Garden,Chinese,Jaipur,3.2,491,500,58,No
+Wok Court,Burger,Pune,3.2,333,200,44,Yes
+Spice Palace,North Indian,Bangalore,3.9,2597,300,40,Yes
+Curry Bay,Desserts,Kolkata,3.0,609,300,32,No
+Hyderabadi Hub,Mughlai,Hyderabad,4.0,253,700,41,Yes
+Tandoor Garden,Pizza,Kolkata,3.3,96,450,39,Yes
+Spice Street,Pizza,Delhi,3.6,486,500,45,Yes
+Urban Street,Pizza,Delhi,3.1,1161,150,54,No
+Punjabi Kitchen,Burger,Kolkata,2.8,866,500,41,No
+Golden Palace,Cafe,Delhi,3.1,764,800,46,No
+Coastal Hub,Biryani,Hyderabad,4.0,362,100,37,Yes
+Grill Cafe,Desserts,Hyderabad,3.2,1927,150,48,No
+Grill Point,Mughlai,Bangalore,3.9,81,300,44,Yes
+Spice Hub,Burger,Mumbai,3.0,106,300,53,No
+Paradise Street,Seafood,Pune,3.5,379,350,50,No
+Wok Street,Biryani,Pune,3.9,867,500,27,Yes
+Curry House,Biryani,Delhi,3.7,570,350,44,No
+Wok Kitchen,North Indian,Mumbai,3.5,613,700,50,Yes
+Wok Street,Pizza,Chennai,3.0,1478,450,38,No
+Urban Kitchen,Chinese,Delhi,3.5,121,400,23,Yes
+Sweet Palace,Chinese,Jaipur,3.2,1320,800,52,No
+Curry Street,Chinese,Pune,3.6,206,500,21,Yes
+Wok Express,Pizza,Delhi,3.2,650,150,34,Yes
+Tandoor Garden,South Indian,Mumbai,3.9,227,700,22,Yes
+Curry Garden,Pizza,Mumbai,3.8,2472,200,22,Yes
+Sweet House,Burger,Mumbai,3.6,86,800,32,Yes
+Dosa Garden,Desserts,Kolkata,3.2,1730,450,48,Yes
+Coastal Cafe,Cafe,Hyderabad,3.4,2536,150,38,No
+Hyderabadi House,Desserts,Hyderabad,3.9,247,450,31,Yes
+Masala Junction,Mughlai,Pune,3.3,38,450,46,No
+Royal Garden,Cafe,Hyderabad,3.9,793,1000,49,Yes
+Golden Junction,Chinese,Kolkata,3.0,208,800,52,No
+Urban Court,Cafe,Bangalore,3.1,552,100,32,No
+Punjabi Express,Cafe,Hyderabad,4.1,229,800,25,Yes
+Urban Court,Burger,Bangalore,3.3,838,150,47,Yes
+Wok Court,Burger,Mumbai,3.2,137,200,35,No
+Golden Street,Desserts,Jaipur,2.9,109,200,42,No
+Spice Street,Pizza,Delhi,3.6,2552,1000,50,Yes
+Royal Express,South Indian,Pune,4.0,7608,450,20,Yes
+Masala Kitchen,Chinese,Mumbai,3.1,825,450,53,No
+Wok Hub,South Indian,Kolkata,3.2,552,450,55,No
+Curry House,Chinese,Delhi,3.0,251,150,32,No
+Hyderabadi Kitchen,Desserts,Delhi,3.5,316,600,48,Yes
+Paradise Garden,Biryani,Mumbai,3.5,313,800,47,No
+Royal House,Pizza,Chennai,3.2,289,450,24,Yes
+Biryani Bay,Biryani,Kolkata,3.5,842,150,20,Yes
+Royal Palace,Pizza,Mumbai,3.2,1637,700,38,No
+Dosa Cafe,Mughlai,Kolkata,3.6,291,300,34,Yes
+Urban Street,Chinese,Chennai,3.4,741,350,45,Yes
+Wok Point,Cafe,Hyderabad,3.9,333,450,38,Yes
+Wok Street,Seafood,Chennai,3.6,537,600,24,Yes
+Paradise Garden,Seafood,Delhi,3.7,116,700,33,Yes
+Curry Kitchen,South Indian,Chennai,3.0,325,350,57,No
+Royal Cafe,Seafood,Bangalore,3.7,81,600,54,No
+Biryani Point,North Indian,Mumbai,3.7,107,600,39,Yes
+Urban Court,South Indian,Chennai,3.4,1086,100,42,No
+Coastal Palace,Burger,Hyderabad,3.4,1360,300,46,Yes
+Biryani Street,North Indian,Hyderabad,3.6,237,300,43,Yes
+Paradise Cafe,North Indian,Hyderabad,3.3,4602,350,56,No
+Punjabi Cafe,South Indian,Mumbai,3.7,1341,450,31,No
+Sweet Point,Chinese,Chennai,3.1,24,700,30,No
+Coastal Court,Seafood,Jaipur,3.7,586,300,43,Yes
+Wok House,North Indian,Chennai,3.3,84,250,47,Yes
+Cheese Point,Chinese,Hyderabad,3.3,6651,600,55,No
+Cheese Cafe,Pizza,Chennai,3.0,2099,250,44,No
+Spice Point,Mughlai,Kolkata,3.7,2768,600,39,Yes
+Kebab Palace,North Indian,Jaipur,3.9,4739,300,40,Yes
+Punjabi Garden,Pizza,Hyderabad,3.9,2659,700,30,Yes
+Masala Cafe,Biryani,Jaipur,3.6,219,600,52,No
+Hyderabadi Bay,Chinese,Pune,3.5,1072,200,46,Yes
+Royal Express,Mughlai,Delhi,3.7,160,1000,47,No
+Grill Hub,South Indian,Pune,3.7,102,350,28,Yes
+Tandoor Bay,Seafood,Mumbai,4.1,13993,150,45,No
+Punjabi Palace,Mughlai,Mumbai,3.7,109,200,34,No
+Urban Hub,Burger,Kolkata,2.8,1320,150,45,No
+Spice Express,South Indian,Pune,3.7,59,200,38,Yes
+Cheese Bay,Seafood,Mumbai,3.6,374,450,32,Yes
+Spice Hub,Mughlai,Hyderabad,3.2,1671,100,51,No
+Biryani Junction,Chinese,Hyderabad,3.1,82,300,35,No
+Sweet Street,Biryani,Chennai,3.4,541,400,58,No
+Dosa Garden,South Indian,Pune,3.5,498,800,50,No
+Tandoor Bay,Desserts,Chennai,3.6,427,300,35,Yes
+Cheese Bay,Chinese,Bangalore,3.3,77,600,49,No
+Biryani Kitchen,Desserts,Mumbai,3.9,1744,600,26,Yes
+Cheese Palace,Mughlai,Hyderabad,3.6,92,250,52,No
+Spice Bay,Burger,Hyderabad,3.4,683,150,44,Yes
+Sweet Palace,North Indian,Chennai,3.2,283,200,47,Yes
+Cheese Street,Pizza,Pune,3.3,50,350,41,No
+Dosa Hub,Cafe,Chennai,3.7,151,450,28,Yes
+Royal Junction,Seafood,Kolkata,3.5,784,200,23,Yes
+Golden Court,Cafe,Jaipur,3.0,324,100,57,No
+Royal Cafe,South Indian,Jaipur,3.1,427,700,40,No
+Punjabi Point,Mughlai,Hyderabad,3.6,1479,400,51,No
+Urban Point,Seafood,Pune,3.7,4716,100,50,No
+Golden Kitchen,Mughlai,Jaipur,3.2,1124,350,38,No
+Grill Kitchen,Chinese,Kolkata,3.3,311,450,32,No
+Coastal Street,Seafood,Pune,3.8,721,400,21,Yes
+Punjabi Point,Biryani,Mumbai,3.7,67,350,41,No
+Hyderabadi Court,Chinese,Jaipur,3.0,1082,350,52,No
+Kebab Hub,North Indian,Hyderabad,3.7,186,800,23,Yes
+Cheese Kitchen,South Indian,Jaipur,3.5,249,150,49,Yes
+Kebab Kitchen,Chinese,Jaipur,3.5,1219,150,44,Yes
+Spice Point,Seafood,Delhi,3.4,1602,400,56,No
+Urban Kitchen,Mughlai,Delhi,4.0,262,350,36,Yes
+Wok Hub,Desserts,Hyderabad,3.4,3353,200,34,No
+Hyderabadi Bay,Mughlai,Chennai,3.7,221,800,39,No
+Royal Hub,South Indian,Delhi,3.3,687,700,52,No
+Spice Point,Mughlai,Chennai,3.0,119,100,51,No
+Masala Junction,Pizza,Delhi,3.6,5688,300,36,No
+Royal Court,Biryani,Pune,3.7,589,1000,55,No
+Wok Cafe,Pizza,Bangalore,2.8,193,100,53,No
+Dosa Court,Cafe,Jaipur,3.8,640,1000,43,Yes
+Curry Junction,Pizza,Jaipur,3.4,252,200,38,Yes
+Urban House,Biryani,Pune,3.5,157,100,54,No
+Hyderabadi Hub,Cafe,Chennai,3.5,1838,500,32,No
+Curry Hub,South Indian,Kolkata,3.1,223,350,40,No
+Royal Bay,Chinese,Jaipur,3.7,313,700,39,Yes
+Wok Kitchen,Chinese,Bangalore,3.5,283,300,30,No
+Tandoor Palace,Burger,Jaipur,3.4,1480,500,32,No
+Paradise Bay,South Indian,Bangalore,4.1,711,700,33,Yes
+Urban House,Chinese,Kolkata,3.1,430,150,22,Yes
+Masala Cafe,Pizza,Mumbai,3.3,250,400,30,Yes
+Tandoor Street,North Indian,Bangalore,3.8,1651,500,23,Yes
+Sweet Cafe,Pizza,Mumbai,3.3,247,450,35,No
+Urban Palace,South Indian,Kolkata,3.5,5601,350,60,No
+Tandoor House,Mughlai,Delhi,3.5,643,500,50,Yes
+Cheese Bay,Chinese,Pune,3.6,1229,200,27,Yes
+Golden Bay,Pizza,Hyderabad,3.3,576,150,28,Yes
+Dosa Junction,Cafe,Jaipur,2.9,811,300,49,No
+Sweet Hub,Chinese,Pune,3.4,716,600,34,No
+Golden House,Burger,Pune,3.1,70,800,53,No
+Kebab Express,Pizza,Pune,3.5,433,300,35,Yes
+Urban Point,South Indian,Mumbai,3.6,38,700,32,No
+Paradise House,Biryani,Bangalore,3.7,633,500,45,No
+Grill Court,South Indian,Pune,3.3,1026,450,46,No
+Grill Court,Desserts,Pune,3.5,2674,200,34,Yes
+Dosa House,Cafe,Delhi,3.1,144,150,38,No
+Wok Express,Biryani,Hyderabad,3.9,742,800,38,No
+Wok Hub,Cafe,Delhi,3.2,3365,150,46,No
+Dosa Express,Chinese,Kolkata,2.9,414,500,50,No
+Dosa Court,South Indian,Delhi,3.8,853,250,33,Yes
+Coastal Garden,North Indian,Jaipur,3.2,874,400,30,No
+Punjabi House,South Indian,Delhi,3.9,1368,200,28,Yes
+Biryani Kitchen,Mughlai,Kolkata,3.5,98,450,47,Yes
+Golden Court,Chinese,Kolkata,3.4,799,800,41,Yes
+Wok Cafe,Seafood,Mumbai,4.1,861,700,33,Yes
+Coastal Court,Cafe,Mumbai,4.0,3043,500,36,Yes
+Hyderabadi House,North Indian,Jaipur,3.2,988,350,47,Yes
+Coastal Cafe,Mughlai,Kolkata,3.8,89,1000,46,Yes
+Masala Express,North Indian,Kolkata,3.4,48,500,33,Yes
+Punjabi House,Biryani,Bangalore,4.1,346,1000,30,Yes
+Masala Palace,North Indian,Delhi,3.2,1945,350,49,No
+Hyderabadi Point,Desserts,Hyderabad,3.2,463,500,45,No
+Urban Bay,Pizza,Pune,3.4,163,1000,52,No
+Kebab Point,North Indian,Hyderabad,3.3,1103,100,35,No
+Coastal Court,Biryani,Mumbai,3.7,422,250,31,Yes
+Punjabi Palace,Biryani,Kolkata,3.3,1591,1000,56,No
+Paradise Bay,Seafood,Jaipur,4.0,3618,250,21,Yes
+Tandoor Hub,Mughlai,Hyderabad,4.0,1292,400,32,Yes
+Curry Point,Mughlai,Bangalore,3.9,29,600,31,Yes
+Sweet Cafe,Pizza,Hyderabad,3.4,617,400,36,Yes
+Royal Point,North Indian,Chennai,3.7,2547,800,44,No
+Kebab Express,Cafe,Jaipur,3.8,24682,100,35,Yes
+Grill Hub,North Indian,Kolkata,3.7,364,500,20,Yes
+Curry Cafe,Pizza,Hyderabad,3.5,4294,150,47,No
+Paradise Court,Seafood,Pune,3.8,491,800,37,No
+Grill Court,Chinese,Hyderabad,3.2,115,150,49,Yes
+Coastal Hub,Seafood,Bangalore,3.7,837,600,47,Yes
