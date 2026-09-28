@@ -1,7 +1,7 @@
 """
 Script to generate a dummy (synthetic) Zomato-like restaurant dataset.
 
-Run this ONLY if you want to regenerate `data/zomato_restaurants.csv`
+Run this ONLY if you want to regenerate `data/datasets/zomato_restaurants.csv`
 with a new random sample. The project already ships with a generated CSV,
 so normally you do NOT need to run this script.
 
@@ -87,8 +87,9 @@ for _ in range(N_RESTAURANTS):
 
 df = pd.DataFrame(rows)
 
-# Save next to the project root: <root>/data/zomato_restaurants.csv
-out_dir = os.path.join(os.path.dirname(__file__), "..", "data")
+# Save next to the project root: <root>/data/datasets/zomato_restaurants.csv
+# out_dir = os.path.join(os.path.dirname(__file__), "..", "data")
+out_dir = os.path.join(os.path.dirname(__file__), "..", "data", "datasets")
 os.makedirs(out_dir, exist_ok=True)
 out_path = os.path.join(out_dir, "zomato_restaurants.csv")
 df.to_csv(out_path, index=False)
